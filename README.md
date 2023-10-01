@@ -39,4 +39,3 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=geovannidsc)
 
-![Snake animation](https://github.com/geovannidsc/geovannidsc/blob/output/github-contribution-grid-snake.svg)
