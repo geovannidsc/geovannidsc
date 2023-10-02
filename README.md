@@ -8,9 +8,12 @@
 
 📫 Como me alcançar:
 
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white) : [geovanni-dsc@hotmail.com](mailto:geovanni-dsc@hotmail.com) 
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-Geovanni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovanni-dos-santos-correia-420218162/)](https://www.linkedin.com/in/geovanni-dos-santos-correia-420218162/)
 [![Instagram Badge](https://img.shields.io/badge/-Geovanni-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/geovanni.correia/)](https://instagram.com/geovanni.correia)
-![Outlook](https://img.shields.io/badge/Geovanni-0078D4?style=flat-the-badge&logo=microsoft-outlook&logoColor=white)
+
 
 ## ⚡ Tecnologias
 
